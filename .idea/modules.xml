@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../React-Native/.idea/hello-world.iml" filepath="$PROJECT_DIR$/../React-Native/.idea/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-native-app.iml" filepath="$PROJECT_DIR$/.idea/react-native-app.iml" />
     </modules>
   </component>
 </project>
